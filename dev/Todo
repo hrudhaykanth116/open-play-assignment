@@ -2,6 +2,7 @@
 Priority:
 1. Permissions handling and user location based weather report.
 2. Edge cases.
+3. Show time of fetching data. Ability to refresh data may be use Swipe Refresh.
 
 Others:
 1. Unit tests.
