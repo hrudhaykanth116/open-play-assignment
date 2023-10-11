@@ -1,0 +1,3 @@
+package com.hrudhaykanth116.openplayassignment.ui.models.home
+
+sealed interface WeatherHomeScreenEffect

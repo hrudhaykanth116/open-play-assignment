@@ -1,0 +1,8 @@
+
+Priority:
+1. Permissions handling and user location based weather report.
+2. Edge cases.
+
+Others:
+1. Unit tests.
+2. Splash screen as a module.
